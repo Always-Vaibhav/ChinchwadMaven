@@ -2,22 +2,22 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[opening meesho]]>
+      <![CDATA[opening snapdeal]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-08-01T12:04:30 IST" name="Default suite" finished-at="2023-08-01T12:04:44 IST" duration-ms="13273">
+  <suite started-at="2023-08-01T12:33:47 IST" name="Default suite" finished-at="2023-08-01T12:33:54 IST" duration-ms="6790">
     <groups>
     </groups>
-    <test started-at="2023-08-01T12:04:30 IST" name="Default test" finished-at="2023-08-01T12:04:44 IST" duration-ms="13273">
-      <class name="eCommerceProject.Meesho">
-        <test-method signature="testMeesho()[pri:0, instance:eCommerceProject.Meesho@223191a6]" started-at="2023-08-01T12:04:30 IST" name="testMeesho" finished-at="2023-08-01T12:04:44 IST" duration-ms="13215" status="PASS">
+    <test started-at="2023-08-01T12:33:47 IST" name="Default test" finished-at="2023-08-01T12:33:54 IST" duration-ms="6790">
+      <class name="eCommerceProject.Snapdeal">
+        <test-method signature="snapdealTest()[pri:0, instance:eCommerceProject.Snapdeal@223191a6]" started-at="2023-08-01T12:33:47 IST" name="snapdealTest" finished-at="2023-08-01T12:33:54 IST" duration-ms="6733" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[opening meesho]]>
+              <![CDATA[opening snapdeal]]>
             </line>
           </reporter-output>
-        </test-method> <!-- testMeesho -->
-      </class> <!-- eCommerceProject.Meesho -->
+        </test-method> <!-- snapdealTest -->
+      </class> <!-- eCommerceProject.Snapdeal -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
