@@ -6,6 +6,8 @@
       <class name="eCommerceProject.Ajio"/>
       <class name="eCommerceProject.Amazon"/>
       <class name="eCommerceProject.Flipcart"/>
+      <class name="eCommerceProject.Meesho"/>
+      <class name="eCommerceProject.Snapdeal"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
