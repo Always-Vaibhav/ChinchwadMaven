@@ -2,22 +2,22 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[opening snapdeal]]>
+      <![CDATA[opening shoopy]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-08-01T12:33:47 IST" name="Default suite" finished-at="2023-08-01T12:33:54 IST" duration-ms="6790">
+  <suite started-at="2023-08-03T09:46:06 IST" name="Default suite" finished-at="2023-08-03T09:47:04 IST" duration-ms="57587">
     <groups>
     </groups>
-    <test started-at="2023-08-01T12:33:47 IST" name="Default test" finished-at="2023-08-01T12:33:54 IST" duration-ms="6790">
-      <class name="eCommerceProject.Snapdeal">
-        <test-method signature="snapdealTest()[pri:0, instance:eCommerceProject.Snapdeal@223191a6]" started-at="2023-08-01T12:33:47 IST" name="snapdealTest" finished-at="2023-08-01T12:33:54 IST" duration-ms="6733" status="PASS">
+    <test started-at="2023-08-03T09:46:06 IST" name="Default test" finished-at="2023-08-03T09:47:04 IST" duration-ms="57587">
+      <class name="eCommerceProject.shoopy">
+        <test-method signature="shoopytest()[pri:0, instance:eCommerceProject.shoopy@dd8ba08]" started-at="2023-08-03T09:46:06 IST" name="shoopytest" finished-at="2023-08-03T09:47:03 IST" duration-ms="57484" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[opening snapdeal]]>
+              <![CDATA[opening shoopy]]>
             </line>
           </reporter-output>
-        </test-method> <!-- snapdealTest -->
-      </class> <!-- eCommerceProject.Snapdeal -->
+        </test-method> <!-- shoopytest -->
+      </class> <!-- eCommerceProject.shoopy -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
